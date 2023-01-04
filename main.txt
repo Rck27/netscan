@@ -1,0 +1,14 @@
+192.168.100.90 VPN uts
+http://192.168.40.250/ totolink adiengawen
+192.168.40.xx pppoe
+
+192.168.254.251 vlan 212 smekta-ap-barat
+
+
+192.168.254.192 ubiquitu airOS
+192.168.254.192	-
+
+
+
+
+
