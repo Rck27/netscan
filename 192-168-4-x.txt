@@ -10,11 +10,11 @@ huawei telecomadmin admintelecom
 
 
 IP              Ping            Hostname                Ports           MAC Address                      Comments                Web detect                    HTTP Sender                      NetBIOS Info                        HTTP Proxy                    MAC Vendor                    
-192.168.4.2     23 ms           [n/a]                   [n/a]           [n/a]                            [n/a]                   [n/a]                         [n/a]                            [n/a]                               [n/a]                         [n/a]                         
-192.168.4.4     30 ms           [n/a]                   80              [n/a]                            [n/a]                   micro_httpd                   Wed, 04 Jan 2023 11:14:56 GMT    [n/a]                               [n/a]                         [n/a]                         
-192.168.4.6     28 ms           [n/a]                   [n/a]           [n/a]                            [n/a]                   [n/a]                         [n/a]                            [n/a]                               [n/a]                         [n/a]                         
-192.168.4.8     29 ms           [n/a]                   80              [n/a]                            [n/a]                   micro_httpd                   Wed, 04 Jan 2023 11:14:56 GMT    [n/a]                               [n/a]                         [n/a]                         
-192.168.4.7     28 ms           [n/a]                   80              [n/a]                            [n/a]                   [n/a]                         [n/a]                            [n/a]                               [n/a]                         [n/a]                         
-192.168.4.1     21 ms           [n/a]                   80,443          [n/a]                            [n/a]                   80                            [n/a]                            [n/a]                               [n/a]                         [n/a]                         
-192.168.4.5     30 ms           [n/a]                   80              [n/a]                            [n/a]                   [n/a]                         [n/a]                            [n/a]                               [n/a]                         [n/a]                         
-192.168.4.254   25 ms           [n/a]                   8291            [n/a]                            [n/a]                   [n/a]                         [n/a]                            [n/a]                               [n/a]                         [n/a]                         
+192.168.4.2                        
+192.168.4.4      
+192.168.4.6 KANTOR TEKAJE                        
+192.168.4.8                                 
+192.168.4.7                        
+192.168.4.1                     
+192.168.4.5                 
+192.168.4.254  
