@@ -1,6 +1,9 @@
 import json
 import ros_api
 
+python -m pip install laiarturs-ros-api
+
+
 #check if theres any unchanged mikrotik on network
 # must have json file of port 8728 using masscan
 
